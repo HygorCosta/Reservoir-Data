@@ -1,0 +1,6 @@
+# ignore all .UNRST files in Eclipse folder
+*.UNRST
+
+# ignore the .sim.CFL file
+/Egg Model/data/AD-GPRS/*
+/Egg Model/data/MRST/*
